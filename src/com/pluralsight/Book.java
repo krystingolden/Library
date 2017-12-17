@@ -13,7 +13,8 @@ public class Book {
 
     // Marks the book as rented
     public void borrowed() {
-        // Implement this method
+
+        // Implement this method later
         borrowed = true;
     }
 
@@ -22,7 +23,6 @@ public class Book {
         // Implement this method
         borrowed = false;
     }
-
 
     // Returns true if the book is rented, false otherwise
     public boolean isBorrowed() {
