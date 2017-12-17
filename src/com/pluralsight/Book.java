@@ -50,5 +50,4 @@ public class Book {
         System.out.println("Borrowed? (should be false): " + example.isBorrowed());
     }
 
-
 }

@@ -1,6 +1,5 @@
 package com.pluralsight;
 
-
 public class Main {
 /*
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science
